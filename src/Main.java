@@ -13,7 +13,7 @@ public class Main {
         System.out.printf("%04d\n", id1);
         System.out.printf("%04d\n", id2);
         System.out.printf("%04d\n", id3);
-        System.out.printf("%04d\n", id4);
+
 
 
     }
